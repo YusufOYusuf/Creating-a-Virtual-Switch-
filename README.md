@@ -13,6 +13,7 @@ In this lab, I learned to create a virtual switch. A virtual switch is a softwar
 
 <h2>Utilities and Language </h2>
 
+- <b>Windows Powershell</b>
 - <b>Hyper-V Manager</b>
 
 <h2>Program walk-through:</h2>
